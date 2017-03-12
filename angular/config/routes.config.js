@@ -67,7 +67,7 @@ export function RoutesConfig($stateProvider, $urlRouterProvider) {
                 }
             }
         })
-		.state('app.create-post', {
+		.state('app.create_post', {
 			url: '/create-post',
 			views: {
 				'main@': {
